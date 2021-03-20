@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning java backend development
+- ☀️ My hobbit: basketball and music
+- 📫 How to reach me: email: 752160655@qq.com
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=KimTou&show_icons=true&theme=radical) 
