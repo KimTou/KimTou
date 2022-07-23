@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 - 🌱 My name is Chen Jin Tao , a college student
 
-- ⚡ I’m currently learning java backend development
+- ⚡ I’m currently learning Java backend development
 
 - ☀️ My hobbies : basketball and music
 
-- 📫 How to reach me: My personal email(752160655@qq.com)
+- 📫 How to reach me: My personal email 752160655@qq.com
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=KimTou&show_icons=true&theme=radical) 
