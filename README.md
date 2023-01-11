@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: My personal email 752160655@qq.com
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=KimTou&show_icons=true&theme=radical) 
+ 
